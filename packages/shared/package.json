@@ -27,7 +27,7 @@
     },
     "devDependencies": {
         "@swc/core": "^1.4.17",
-        "@swc/jest": "^0.2.24",
+        "@swc/jest": "^0.2.37",
         "@tsconfig/svelte": "^5.0.0",
         "@types/big.js": "^6.2.2",
         "@types/jest": "^29.5.0",
