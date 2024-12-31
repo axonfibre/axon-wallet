@@ -1,0 +1,24 @@
+# Repository
+.vscode/
+
+patches/
+specs/
+
+# Desktop (packages/desktop)
+packages/desktop/out/
+packages/desktop/public/
+packages/desktop/electron/lib/keychain.js
+
+# Shared (packages/shared)
+packages/shared/assets/
+!packages/shared/lib/tests/
+packages/shared/locales/
+!packages/shared/locales/en.json
+
+# Common files and folders
+**/node_modules/
+**/out/
+**/tests/
+
+# ESLint configuration and files
+**/.eslintrc.js
